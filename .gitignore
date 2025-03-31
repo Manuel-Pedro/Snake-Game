@@ -1,0 +1,17 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos de sistema
+.DS_Store
